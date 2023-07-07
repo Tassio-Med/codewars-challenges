@@ -18,12 +18,17 @@ Você é bem-vindo para contribuir com novos desafios ou melhorias nos desafios 
 ## Contato
 Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Você pode me encontrar em:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/t%C3%A1ssio-medeiros-274330226/) 
+<p align="center">
 
+  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/t%C3%A1ssio-medeiros-274330226/) | [![GitHub](https://img.shields.io/badge/GitHub-Tassio--Med-black?style=flat&logo=github)](https://github.com/Tassio-Med) | [![Codewars](https://www.codewars.com/users/Taz.M/badges/small)](https://www.codewars.com/users/Taz.M) |
+  |---|---|---|
 
-[![GitHub](https://img.shields.io/badge/GitHub-Tassio--Med-black?style=flat&logo=github)](https://github.com/Tassio-Med)
+</p>
 
-[![Codewars](https://www.codewars.com/users/Taz.M/badges/small)](https://www.codewars.com/users/Taz.M)
+<p align="center">
+  <img src="https://www.codewars.com/assets/logo-square-red-big-c6c4f40d8f429d5d74d3a1b9e9aa30da.png" alt="Codewars Logo">
+</p>
+
 
 <br>
 
