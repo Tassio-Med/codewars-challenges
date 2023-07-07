@@ -25,11 +25,6 @@ Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Vo
 
 </p>
 
-<p align="center">
-  <img src="https://www.codewars.com/assets/logo-square-red-big-c6c4f40d8f429d5d74d3a1b9e9aa30da.png" alt="Codewars Logo">
-</p>
-
-
 <br>
 
 <p align="center">
