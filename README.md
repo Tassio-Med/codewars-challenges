@@ -20,8 +20,7 @@ Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Vo
 
 <p align="center">
 
-  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/t%C3%A1ssio-medeiros-274330226/) | [![GitHub](https://img.shields.io/badge/GitHub-Tassio--Med-black?style=flat&logo=github)](https://github.com/Tassio-Med) | [![Codewars](https://www.codewars.com/users/Taz.M/badges/small)](https://www.codewars.com/users/Taz.M) |
-  |---|---|---|
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/t%C3%A1ssio-medeiros-274330226/) [![GitHub](https://img.shields.io/badge/GitHub-Tassio--Med-black?style=flat&logo=github)](https://github.com/Tassio-Med) [![Codewars](https://www.codewars.com/users/Taz.M/badges/small)](https://www.codewars.com/users/Taz.M)
 
 </p>
 
