@@ -19,7 +19,7 @@ export class Kata {
       return vowels.indexOf(letter) === -1;
     })
     return consonants.join('');
-  }
+  
 }
 
 // ===> OUTRA SOLUÇÃO INTERESSANTE USANDO REGEX:
