@@ -1,4 +1,4 @@
-import { numberToString } from "../../challenges/challenge01";
+import { numberToString } from "../challenges/challenge01";
 
 describe('numberToString', () => {
   it('converte um número positivo para string', () => {
