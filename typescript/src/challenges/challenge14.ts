@@ -22,7 +22,7 @@
 
 // ==> My solution:
 
-export default function isSquare(n: number): boolean {
+export function isSquare(n: number): boolean {
   const value = Math.sqrt(n); 
   return Number.isInteger(value) ? true : false; 
 };
