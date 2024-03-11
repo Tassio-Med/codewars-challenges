@@ -3,7 +3,7 @@
   <img src="./images/codewars-logo.png" alt="Logo da Codewars">
 </p>
 
-Este repositório contém uma coleção de desafios de lógica de programação do site Codewars. Os desafios estão disponíveis na linguagem TypeScript, futuramente serão adicionados Java, Javascript e Python.
+Este repositório contém uma coleção de desafios de lógica de programação do site Codewars. Os desafios estão disponíveis na linguagem TypeScript e C#, futuramente serão adicionados Java e Python.
 
 ## Sobre o Codewars
 O [Codewars](https://www.codewars.com) é uma plataforma online que oferece uma ampla variedade de desafios de programação. Os desafios são classificados por níveis de dificuldade e abrangem diversos conceitos de programação e algoritmos. Resolver esses desafios pode ajudá-lo a aprimorar suas habilidades de resolução de problemas, aprender novas técnicas de programação e melhorar seu domínio geral das linguagens de programação.
