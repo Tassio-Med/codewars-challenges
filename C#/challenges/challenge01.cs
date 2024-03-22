@@ -10,7 +10,7 @@ otherwise	'Hello guest' */
 
 // ==> My solution:
 
-public class Kata
+public class Kata001
 {
   public static string Greet(string name, string owner)
   {
