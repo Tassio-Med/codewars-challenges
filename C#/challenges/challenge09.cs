@@ -14,7 +14,7 @@ Examples
 // ==> My solution:
 
 using System;
-  public class Kata
+  public class Kata03
   {
     public static int StringToNumber(String str) {
         return int.Parse(str);
