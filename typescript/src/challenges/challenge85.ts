@@ -27,10 +27,6 @@ n
 // ==> My Solution:
 
 export function SeriesSum(n:number):string {
-  if(n === 0){
-    return "0.00";
-  }
-
   let nthTerm = 0;
   for(let num = 0; num < n; num++){
     nthTerm += 1/(3 * num + 1);
